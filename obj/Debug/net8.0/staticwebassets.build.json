@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2ZBBX5DlfCP1OM3yR5J+19Zp7RSwPsKQy3pAIiNQ+nA=",
+  "Source": "ApiTemplate",
+  "BasePath": "_content/ApiTemplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiTemplate\\wwwroot",
+      "Source": "ApiTemplate",
+      "ContentRoot": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\wwwroot\\",
+      "BasePath": "_content/ApiTemplate",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\wwwroot\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
+      "SourceId": "ApiTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\wwwroot\\",
+      "BasePath": "_content/ApiTemplate",
+      "RelativePath": "photos/ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg"
+    }
+  ]
+}

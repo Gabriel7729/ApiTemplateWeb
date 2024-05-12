@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\wwwroot\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
+      "PackagePath": "staticwebassets\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiTemplate.props",
+      "PackagePath": "build\\ApiTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiTemplate.props",
+      "PackagePath": "buildMultiTargeting\\ApiTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiTemplate.props",
+      "PackagePath": "buildTransitive\\ApiTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
