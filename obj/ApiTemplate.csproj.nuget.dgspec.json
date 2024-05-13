@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
         "projectName": "ApiTemplate",
-        "projectPath": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\obj\\",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\s462-webintra01\\e$\\brrdnet\\vsnet2012\\NugetServer\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

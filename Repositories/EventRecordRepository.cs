@@ -20,7 +20,7 @@ namespace ApiTemplate.Repositories
             {
                 CommandType = CommandType.StoredProcedure
             };
-            command.Parameters.AddWithValue("@Id", Guid.Empty);
+            command.Parameters.AddWithValue("@Id", Guid.NewGuid());
             command.Parameters.AddWithValue("@DocumentType", record.DocumentType);
             command.Parameters.AddWithValue("@Document", record.Document);
             command.Parameters.AddWithValue("@FirstName", record.FirstName);

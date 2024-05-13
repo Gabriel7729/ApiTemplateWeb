@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\repositories\\eventrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\repositories\\eventrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:repositories\\eventrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\entities\\eventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\entities\\eventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:entities\\eventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Migrations\\20240510224134_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240510224134_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\onedrive - intec\\intec\\trimestre 9\\lab desarrollo web\\templates\\apitemplate\\apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\migrations\\20240510224134_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:migrations\\20240510224134_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,60 +74,59 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:22:18.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EventRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Repositories\\EventRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Repositories\\EventRecordRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\EventRecordRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Repositories\\EventRecordRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Repositories\\EventRecordRepository.cs",
               "RelativeToolTip": "Repositories\\EventRecordRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCgAAABSAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:26:14.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ServicesInjection.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Config\\ServicesInjection.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\ServicesInjection.cs",
               "RelativeDocumentMoniker": "Config\\ServicesInjection.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Config\\ServicesInjection.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\ServicesInjection.cs",
               "RelativeToolTip": "Config\\ServicesInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:35:08.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T22:35:08.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EventRecordController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Controllers\\EventRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Controllers\\EventRecordController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventRecordController.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Controllers\\EventRecordController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Controllers\\EventRecordController.cs",
               "RelativeToolTip": "Controllers\\EventRecordController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAUwDoAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:32:56.223Z",
               "EditorCaption": ""
@@ -136,118 +135,120 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Abstracts\\EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Abstracts\\EntityBase.cs",
               "RelativeDocumentMoniker": "Abstracts\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Abstracts\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Abstracts\\EntityBase.cs",
               "RelativeToolTip": "Abstracts\\EntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T20:14:09.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T20:14:09.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EventRecord.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Entities\\EventRecord.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Entities\\EventRecord.cs",
               "RelativeDocumentMoniker": "Entities\\EventRecord.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Entities\\EventRecord.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Entities\\EventRecord.cs",
               "RelativeToolTip": "Entities\\EventRecord.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:19:57.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "20240510224134_Initial-Migration.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Migrations\\20240510224134_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Migrations\\20240510224134_Initial-Migration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240510224134_Initial-Migration.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Migrations\\20240510224134_Initial-Migration.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Migrations\\20240510224134_Initial-Migration.cs",
               "RelativeToolTip": "Migrations\\20240510224134_Initial-Migration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:41:34.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T22:41:34.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T19:57:36.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T19:57:36.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Dockerfile",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-10T22:25:24.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EntityFrameworkModelBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
-              "RelativeToolTip": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T20:15:09.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:56:29.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T22:25:24.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "SqlConnection.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Config\\SqlConnection.cs",
-              "RelativeDocumentMoniker": "Config\\SqlConnection.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\Config\\SqlConnection.cs",
-              "RelativeToolTip": "Config\\SqlConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Title": "EntityFrameworkModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "RelativeToolTip": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:46:15.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T20:15:09.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApiTemplate",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:56:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "Config\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\SqlConnection.cs",
+              "RelativeToolTip": "Config\\SqlConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:46:15.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiTemplate.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
               "RelativeDocumentMoniker": "ApiTemplate.csproj",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - INTEC\\INTEC\\TRIMESTRE 9\\Lab Desarrollo Web\\Templates\\ApiTemplate\\ApiTemplate.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
               "RelativeToolTip": "ApiTemplate.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-10T19:48:35.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T19:48:35.281Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
