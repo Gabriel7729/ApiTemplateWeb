@@ -6,7 +6,8 @@ namespace ApiTemplate.Config
     {
         public static IServiceCollection InjectServices(this IServiceCollection services)
         {
-            services.AddTransient<IEventRecordRepository, EventRecordRepository>();
+            services.AddTransient<ICandidatoRepository, CandidatoRepository>();
+            services.AddTransient<IVotoRepository, VotoRepository>();
             return services;
         }   
     }

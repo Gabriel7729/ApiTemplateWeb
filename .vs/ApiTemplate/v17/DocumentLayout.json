@@ -1,58 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\repositories\\eventrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:repositories\\eventrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\eventrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\entities\\eventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:entities\\eventrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:config\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\controllers\\votocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\votocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\repositories\\votorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:repositories\\votorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\repositories\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:repositories\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\entities\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:entities\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:config\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:abstracts\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:data\\extensions\\entityframeworkmodelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\dell\\desktop\\proyectos personales\\desarrollo web\\semana 3\\eleccionespresidenciales\\apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:apitemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|c:\\users\\gabri\\onedrive\\desktop\\desarrollo web\\semana 2\\assurancebe\\migrations\\20240510224134_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE6ABAF-8680-45AD-9472-66FB9419F39A}|ApiTemplate.csproj|solutionrelative:migrations\\20240510224134_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VotoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\VotoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VotoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\VotoController.cs",
+              "RelativeToolTip": "Controllers\\VotoController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:12:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Repositories\\VotoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VotoRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Repositories\\VotoRepository.cs",
+              "RelativeToolTip": "Repositories\\VotoRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:48:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T00:43:41.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -74,19 +129,67 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CandidatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Repositories\\CandidatoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CandidatoRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Repositories\\CandidatoRepository.cs",
+              "RelativeToolTip": "Repositories\\CandidatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:26:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Config\\ServicesInjection.cs",
+              "RelativeDocumentMoniker": "Config\\ServicesInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Config\\ServicesInjection.cs",
+              "RelativeToolTip": "Config\\ServicesInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:35:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T19:57:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidatoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:32:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,49 +198,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Repositories\\EventRecordRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EventRecordRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Repositories\\EventRecordRepository.cs",
-              "RelativeToolTip": "Repositories\\EventRecordRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:26:14.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ServicesInjection.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\ServicesInjection.cs",
-              "RelativeDocumentMoniker": "Config\\ServicesInjection.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\ServicesInjection.cs",
-              "RelativeToolTip": "Config\\ServicesInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:35:08.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventRecordController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Controllers\\EventRecordController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventRecordController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Controllers\\EventRecordController.cs",
-              "RelativeToolTip": "Controllers\\EventRecordController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:32:56.223Z",
+              "WhenOpened": "2024-05-10T19:56:29.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Voto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Entities\\Voto.cs",
+              "RelativeDocumentMoniker": "Entities\\Voto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Entities\\Voto.cs",
+              "RelativeToolTip": "Entities\\Voto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:34:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Entities\\Candidato.cs",
+              "RelativeDocumentMoniker": "Entities\\Candidato.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Entities\\Candidato.cs",
+              "RelativeToolTip": "Entities\\Candidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:32:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Controllers\\FileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:36:05.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Config\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "Config\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Config\\SqlConnection.cs",
+              "RelativeToolTip": "Config\\SqlConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:46:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Abstracts\\EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Abstracts\\EntityBase.cs",
               "RelativeDocumentMoniker": "Abstracts\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Abstracts\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Abstracts\\EntityBase.cs",
               "RelativeToolTip": "Abstracts\\EntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,48 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventRecord.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Entities\\EventRecord.cs",
-              "RelativeDocumentMoniker": "Entities\\EventRecord.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Entities\\EventRecord.cs",
-              "RelativeToolTip": "Entities\\EventRecord.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:19:57.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240510224134_Initial-Migration.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Migrations\\20240510224134_Initial-Migration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240510224134_Initial-Migration.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Migrations\\20240510224134_Initial-Migration.cs",
-              "RelativeToolTip": "Migrations\\20240510224134_Initial-Migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T22:41:34.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T19:57:36.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Dockerfile",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -194,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "EntityFrameworkModelBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
               "RelativeToolTip": "Data\\Extensions\\EntityFrameworkModelBuilderExtensions.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,49 +303,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:56:29.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SqlConnection.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\SqlConnection.cs",
-              "RelativeDocumentMoniker": "Config\\SqlConnection.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\Config\\SqlConnection.cs",
-              "RelativeToolTip": "Config\\SqlConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:46:15.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ApiTemplate.csproj",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj",
               "RelativeDocumentMoniker": "ApiTemplate.csproj",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj",
               "RelativeToolTip": "ApiTemplate.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-10T19:48:35.281Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KavPe2H4ywsm73C3j2ZFxsI6e2V9fSmBw0uJBXyzxx4=",
+  "Hash": "DliY2fQEeaVEEiJmcDkDs7Kil0yJxPlR+RJucp11z0c=",
   "Source": "ApiTemplate",
   "BasePath": "_content/ApiTemplate",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ApiTemplate\\wwwroot",
       "Source": "ApiTemplate",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\08be529a-2a9e-4f3c-827d-87db6af7ba41.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\08be529a-2a9e-4f3c-827d-87db6af7ba41.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/08be529a-2a9e-4f3c-827d-87db6af7ba41.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\08be529a-2a9e-4f3c-827d-87db6af7ba41.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\0d667cb4-38da-43cc-bc6b-1d16da74ff17.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\0d667cb4-38da-43cc-bc6b-1d16da74ff17.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/0d667cb4-38da-43cc-bc6b-1d16da74ff17.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\0d667cb4-38da-43cc-bc6b-1d16da74ff17.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\12231161-4fed-44b2-a43d-7320aef5c6df.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\12231161-4fed-44b2-a43d-7320aef5c6df.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/12231161-4fed-44b2-a43d-7320aef5c6df.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\12231161-4fed-44b2-a43d-7320aef5c6df.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\28d4c94f-7d36-4586-97de-512c29357b66.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\28d4c94f-7d36-4586-97de-512c29357b66.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/28d4c94f-7d36-4586-97de-512c29357b66.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\28d4c94f-7d36-4586-97de-512c29357b66.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\96a17164-f7f6-4f73-8860-25e7cde63a8d.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\96a17164-f7f6-4f73-8860-25e7cde63a8d.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/96a17164-f7f6-4f73-8860-25e7cde63a8d.jpg",
       "AssetKind": "All",
@@ -112,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\photos\\96a17164-f7f6-4f73-8860-25e7cde63a8d.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\9b0d0ab0-5a21-48b0-b4a2-83372292c7aa.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\9ac01cfc-d104-4cbe-a6e1-49cca0f44900.png",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
+      "BasePath": "_content/ApiTemplate",
+      "RelativePath": "photos/9ac01cfc-d104-4cbe-a6e1-49cca0f44900.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\9ac01cfc-d104-4cbe-a6e1-49cca0f44900.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\9b0d0ab0-5a21-48b0-b4a2-83372292c7aa.jpg",
+      "SourceId": "ApiTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/9b0d0ab0-5a21-48b0-b4a2-83372292c7aa.jpg",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\9b0d0ab0-5a21-48b0-b4a2-83372292c7aa.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\ac3adbc6-f7c5-42f7-8fdb-93b17622409d.png",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\ac3adbc6-f7c5-42f7-8fdb-93b17622409d.png",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/ac3adbc6-f7c5-42f7-8fdb-93b17622409d.png",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\photos\\ac3adbc6-f7c5-42f7-8fdb-93b17622409d.png"
     },
     {
-      "Identity": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\photos\\ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
       "SourceId": "ApiTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\wwwroot\\",
       "BasePath": "_content/ApiTemplate",
       "RelativePath": "photos/ca086c14-b4d3-4518-8eba-dba431b1ac19.jpg",
       "AssetKind": "All",

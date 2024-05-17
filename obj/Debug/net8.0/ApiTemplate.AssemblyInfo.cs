@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7aaada6b5ca8a1cdc86365a7fff1892ab65d3a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e30d6649a8235b9f0d2a5c39206a6c959a3cccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

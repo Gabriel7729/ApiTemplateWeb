@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj",
         "projectName": "ApiTemplate",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\ApiTemplate.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Desarrollo Web\\Semana 2\\AssuranceBE\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\ApiTemplate.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Proyectos Personales\\Desarrollo Web\\Semana 3\\EleccionesPresidenciales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\s462-webintra01\\e$\\brrdnet\\vsnet2012\\NugetServer\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

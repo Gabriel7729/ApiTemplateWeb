@@ -9,7 +9,8 @@ namespace ApiTemplate.Data
 {
     public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
     {
-        public DbSet<EventRecord> EventRecords => Set<EventRecord>();
+        public DbSet<Candidato> Candidatos => Set<Candidato>();
+        public DbSet<Voto> Votos => Set<Voto>();
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
